@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true"/>
+  <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true"/></component>
+<component name="CodeInsightWorkspaceSettings"><option name="optimizeImportsOnTheFly" value="true"/></component></application>
