@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="zygote" />
+        <option value="glUtilsParamSize: unknow param 0x000085b5" />
+      </list>
+    </option>
+  </component>
+</application>
